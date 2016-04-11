@@ -11,7 +11,7 @@ O jogo é simples: é apresentado ao jogador uma palavra com as letras embaralha
 tentar adivinhar a palavra correta. O jogo será jogado no próprio console e a lista de palavras utilizadas
 pode ser fixa (pelo menos 20).<br>
 
-<b>PASSOS<b> <br>
+<b>PASSOS</b> <br>
 A classe Scanner pode ser utilizada para ler a entrada do usuário no console.
 Ela deve ser criada da seguinte forma: Scanner in = new Scanner(System.in); e
 em seguida métodos como nextLine() ou nextInt() podem ser utilizados para
